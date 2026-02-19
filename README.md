@@ -28,7 +28,7 @@ download juga Python3 di sini [PYTHON3](https://www.python.org/downloads/windows
 $ git clone https://github.com/afriii69/Talk_AI.git
 $ cd Talk_AI
 ```
-jika sudah di clone, bakal ada folder bernama Talk_AI. Gunakan Git untuk clone <br><br>
+jika sudah di clone, bakal ada folder bernama Talk_AI. Gunakan Git untuk clone <br>
 
 
 #### PART 3 - Install modul dan Jalankan SC
@@ -36,12 +36,13 @@ jika sudah di clone, bakal ada folder bernama Talk_AI. Gunakan Git untuk clone <
 $ npm install
 $ npm run go_ai
 ```
-<br><br>
+<br>
 
 #### PART 4  - Cara Menggunakan
 ```bash
 $ [🔲] Press "SPACE" for speaking...
 $ saat terminal menampilkan pesan di atas, harap tekan space dan pastikan mic tersambung
 ```
+
 
 
